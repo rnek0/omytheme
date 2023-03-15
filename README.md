@@ -75,6 +75,7 @@ Et voila ! J'espère que cela vous a mis en appetit et que vous avez envie de fa
 Voir un peu de documentation : 
 
 * <https://extensionworkshop.com/documentation/themes/static-themes/>
+* <https://developer.chrome.com/docs/extensions/mv3/themes/>
 * <https://developer.chrome.com/docs/extensions/mv3/devguide/>
 
 Faire des tests avec un outil :

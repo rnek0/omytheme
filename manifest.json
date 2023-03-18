@@ -2,13 +2,22 @@
     "manifest_version": 2,
     "version": "1.0",
     "name": "lunarviews",
+    "homepage_url": "https://github.com/rnek0/omytheme",
     "theme": {
       "images": {
         "theme_frame": "header_lunarviews.png"
       },
       "colors": {
         "frame": "#000000",
-        "tab_background_text": "#c0c0c0"
+        "frame_inactive": "#ff0000",
+        "tab_text": "#000",
+        "tab_background_text": "#01abcb",
+        "sidebar_border":"black",
+        "toolbar_field_border":"black",
+        "tab_background_separator":"#01abcb",
+        "toolbar_top_separator":"#01abcb",
+        "toolbar_vertical_separator":"black",
+        "toolbar_bottom_separator":"black"
       }
     }
   }
